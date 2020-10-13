@@ -1,0 +1,2 @@
+command: python3 $program/dominant.py $input/competition_dataset $output
+description: Ne modifiez pas et n'effacez pas ce fichier metadata. Gardez-le dans l'archive de votre soumission. 

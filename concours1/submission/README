@@ -1,0 +1,12 @@
+Compétition Algo avancé CS 3A INFO -- Dominant:
+
+Consignes:
+-- Ne modifiez pas et n'effacez pas le fichier 'metadata'. Gardez-le dans l'archive de votre soumission.
+-- Completez le code de 'dominant.py' mais ne touchez pas au '__main__'
+-- pour tester votre code utilisez la commande suivante : 
+       * pyhton3 dominant.py rep_data_set rep_answer
+       * 'rep_data_set' correspond au répertoire contenant les fichiers graphes
+       * 'rep_answer' correspond au répertoire où le fichier des réponses sera sauvegardé
+
+
+
