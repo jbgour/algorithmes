@@ -1,0 +1,12 @@
+Compétition Algo avancé CS 3A INFO -- Décomposition en facteurs premiers :
+
+Consignes:
+-- Ne modifiez pas et n'effacez pas le fichier 'metadata'. Gardez-le dans l'archive de votre soumission.
+-- Completez le code de 'factorize.py' mais ne touchez pas au '__main__'
+-- pour tester votre code utilisez la commande suivante : 
+       * pyhton3 factorize.py rep_data_set rep_answers
+       * 'rep_data_set' correspond au répertoire contenant les fichiers des nombres (voir public_dataset)
+       * 'rep_answers' correspond au répertoire où les fichiers des réponses seront sauvegardés
+
+
+

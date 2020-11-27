@@ -1,0 +1,2 @@
+command: python3 --version
+description: Do not remove this metadata file from the archive "submission.zip" you will submit. Read the numbers.txt file and put the answers withion the answers.txt file.
